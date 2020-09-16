@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 gem 'sitemap_generator', :path => './'
 
-gem 'rails', '2.3.8'
+gem 'rails', '4.1.16'
 gem 'mocha', '0.9.10'
 gem 'rake', '>= 0.8.7'
 gem 'rspec', '1.3.1', :require => 'spec'
